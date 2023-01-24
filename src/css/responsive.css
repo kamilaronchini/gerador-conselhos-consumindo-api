@@ -1,0 +1,11 @@
+@media (max-width: 780px) {
+    .container .cartao {
+        width: 50%;
+    }
+}
+
+@media (max-width: 400px) {
+    .container .cartao .divisor hr { 
+        width: 90px;
+    }    
+}
